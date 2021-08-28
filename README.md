@@ -1,2 +1,2 @@
-# SDP_DAY1_RinitHedaoo
+# SDP_DAY1
 SDP DAY1 Assignment
